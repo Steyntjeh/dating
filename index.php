@@ -50,7 +50,7 @@ session_start();
                 <div class="container">
                     <div class="row justify-content-center text-center">
                         <div class="col-md-10 col-lg-8">
-                            <h1 class="h4">About us</h1>
+                            <h1 class="h4">About us!</h1>
                             <p class="mt-4 mb-4">
                                 30% of Canada adults say they have used a dating site or app. A majority of online
                                 daters
