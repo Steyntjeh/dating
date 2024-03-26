@@ -2,9 +2,9 @@
 //it allows any type of database.
 
 define("serverName", "localhost");
-define("database", "datingdb");
-define("username", "dating_site_user");
-define("password", "dating!12");
+define("database", "net24sruesink_datingdb");
+define("username", "net24sruesink_dating");
+define("password", "steynruesink");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
 function getConnection()
